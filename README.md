@@ -1,4 +1,4 @@
-# Feedback Widget
+# Feedback Widget, Part 2 using react hooks
 
 ## 🛠 Tools used
 
